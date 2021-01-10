@@ -6,3 +6,5 @@ Fixed a bunch o' bugs!
 This change was made when I was in the testing branch in the big repository and the bug-fix branch in the small repository
 
 Another change
+
+Changes in the new branch
